@@ -44,9 +44,11 @@ Marja'a provides an integrated platform that includes:
 - Improved UX for users with disabilities
 
  ## Screenshot
-<img width="1470" height="956" alt="Screenshot 1447-12-06 at 6 20 27 PM" src="https://github.com/user-attachments/assets/86f11e1b-86ae-4b81-8086-6142440a484f" />
+ <img width="1470" height="956" alt="Screenshot 1447-12-06 at 6 20 00 PM" src="https://github.com/user-attachments/assets/6c88ec37-73bb-4bf5-a626-7e98158ae579" />
+
 <img width="1470" height="956" alt="Screenshot 1447-12-06 at 6 20 14 PM" src="https://github.com/user-attachments/assets/fec373a1-83f3-4bf5-829a-e0a4d3bec82d" />
-<img width="1470" height="956" alt="Screenshot 1447-12-06 at 6 20 00 PM" src="https://github.com/user-attachments/assets/6c88ec37-73bb-4bf5-a626-7e98158ae579" />
+
+<img width="1470" height="956" alt="Screenshot 1447-12-06 at 6 20 27 PM" src="https://github.com/user-attachments/assets/86f11e1b-86ae-4b81-8086-6142440a484f" />
 
 
 ## 🛠️ Technologies Used
