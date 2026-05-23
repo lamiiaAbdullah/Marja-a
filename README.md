@@ -1,9 +1,10 @@
 🎓 Marja'a | مرجِع
 A smart university platform designed to unify the student academic experience in one place — providing lectures, learning resources, student interaction, and comprehensive accessibility support.
+
 📌 Project Idea
 University students struggle with scattered academic content across multiple platforms, difficulty revisiting lectures, weak interaction, and limited accessibility for students with disabilities. Marja'a was built to be a unified digital gateway that brings everything a student needs into one place.
-🎯 Problem
 
+🎯 Problem
 Academic content and lectures are scattered across multiple platforms
 Difficulty reviewing content at any time
 Weak academic communication between students
